@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="43px" viewBox="0 0 41 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>angular-icon-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="angular-icon-1" fill-rule="nonzero">
+            <polygon id="Shape" fill="#848C97" points="0.0158088235 7.19649265 19.9045735 0.1101875 40.3289412 7.07049632 37.0218934 33.3842831 19.9045735 42.8642022 3.05505515 33.5102794"></polygon>
+            <polygon id="Shape" fill="#848C97" points="40.3289412 7.07049632 19.9045735 0.1101875 19.9045735 42.8642022 37.0218934 33.4000919"></polygon>
+            <path d="M19.9360331,5.10213971 L7.54302206,32.6757316 L12.172636,32.5970037 L14.6607868,26.3767059 L25.7783419,26.3767059 L28.5026765,32.6757316 L32.9275662,32.7544596 L19.9360331,5.10213971 Z M19.9676507,13.9364265 L24.1563566,22.6918272 L16.282614,22.6918272 L19.9676507,13.9364265 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
