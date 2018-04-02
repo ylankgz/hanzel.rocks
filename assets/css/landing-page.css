@@ -497,7 +497,13 @@
     width: 150px;  /* Or whatever */
     height: 100px; /* Or whatever */
     text-align: center;
+    opacity: 0.7;
   }
+
+  .landing-page .logos .flex-item:hover {
+    opacity: 1;
+  }
+
    .landing-page .logos li{
     display: inline-block;
     margin: 0 17px;
@@ -565,15 +571,12 @@
     margin-top: 50px;
    }
 
-   .landing-page .section-demo a{
-    margin-top: 20px;
-   }
-
    .landing-page .section-demo .demo-image{
     position: relative;
     width: 100%;
     display: block;
    }
+
 
    .landing-page .section-demo .demo-image img{
     width: 100%;
@@ -582,7 +585,11 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
    }
 
-   .landing-page .section-demo .row:first-child{
+   .landing-page .section-demo .demo-image img:hover {
+    opacity: 0.7;
+   }
+
+   .landing-page .section-demo .row .col-md-5{
     margin-bottom: 100px;
    }
 
